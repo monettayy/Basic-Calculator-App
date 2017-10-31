@@ -1,0 +1,8 @@
+E:\AVP\activity07\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+E:\AVP\activity07\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+E:\AVP\activity07\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+E:\AVP\activity07\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+E:\AVP\activity07\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+E:\AVP\activity07\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.Cache
+E:\AVP\activity07\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+E:\AVP\activity07\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
